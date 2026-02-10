@@ -85,3 +85,6 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+trabajo completado por: Juan Felipe Mahecha
+link: https://dsaw-2026-1.github.io/my-cv-part-a-jotamahecha/
